@@ -1,4 +1,4 @@
-const TITLE = 'Bootstrap - Responsible Helper'
+const TITLE = 'Responsive Grid Helper'
 
 const defaultSettings = {
   hideExtensionIcon: false,
